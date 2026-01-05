@@ -28,30 +28,39 @@ summary: |
   PKI, logging and monitoring systems, and cloud-native databases.
 
 colors:
-  background: "#020202"
-  foreground: "#CECFC7"
-  card: "#1a1a1a"
-  cardForeground: "#CECFC7"
-  popover: "#1a1a1a"
-  popoverForeground: "#CECFC7"
-  primary: "#3E6259"
-  primaryForeground: "#CECFC7"
-  secondary: "#2a2a2a"
-  secondaryForeground: "#CECFC7"
-  muted: "#2a2a2a"
-  mutedForeground: "#9a9a9a"
-  accent: "#3E6259"
-  accentForeground: "#CECFC7"
-  destructive: "#dc2626"
-  destructiveForeground: "#CECFC7"
-  border: "#3E6259"
-  input: "#2a2a2a"
-  ring: "#3E6259"
-  chart1: "#3E6259"
-  chart2: "#CECFC7"
-  chart3: "#5a7a72"
-  chart4: "#8a9a94"
-  chart5: "#a0b0aa"
+  background: "#0B1120"          # Deep navy background
+  foreground: "#E5E7EB"          # Soft light gray text
+
+  card: "#111827"                # Dark slate cards
+  cardForeground: "#E5E7EB"
+
+  popover: "#111827"
+  popoverForeground: "#E5E7EB"
+
+  primary: "#3B82F6"             # Blue accent (buttons, links)
+  primaryForeground: "#FFFFFF"
+
+  secondary: "#1F2937"
+  secondaryForeground: "#E5E7EB"
+
+  muted: "#1F2937"
+  mutedForeground: "#9CA3AF"
+
+  accent: "#38BDF8"              # Cyan highlight
+  accentForeground: "#020617"
+
+  destructive: "#EF4444"
+  destructiveForeground: "#FFFFFF"
+
+  border: "#1E40AF"
+  input: "#1F2937"
+  ring: "#60A5FA"
+
+  chart1: "#3B82F6"
+  chart2: "#38BDF8"
+  chart3: "#6366F1"
+  chart4: "#22D3EE"
+  chart5: "#A5B4FC"
 
 fonts:
   sans: "Geist"
