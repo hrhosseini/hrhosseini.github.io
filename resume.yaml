@@ -1,0 +1,164 @@
+# CV2Web Resume Configuration
+
+personal:
+  name: "Hamidreza Hosseini"
+  title: "SRE | DevOps Engineer | Platform Engineer | Cloud Engineer | Python & Go Developer"
+  photo: "photo.jpg"
+
+  links:
+    github:
+      username: "hrhosseini"
+      url: "https://github.com/hrhosseini"
+    linkedin:
+      username: "hamidreza-hosseini"
+      url: "https://www.linkedin.com/in/hamidreza-hosseini-6561b3276/"
+    email:
+      address: "hamidreza223.h@gmail.com"
+    telegram:
+      username: "@Hamihoseini"
+      url: "https://t.me/Hamihoseini"
+
+summary: |
+  Site Reliability Engineer with a strong background in distributed systems,
+  cloud infrastructure, and network security. I design, deploy, and operate reliable,
+  scalable platforms using Kubernetes, automation, and observability tooling.
+
+  I enjoy building cloud-native systems and working on infrastructure reliability,
+  monitoring, and security. My interests include DevOps, SRE practices, cryptography,
+  PKI, logging and monitoring systems, and cloud-native databases.
+
+colors:
+  background: "#020202"
+  foreground: "#CECFC7"
+  card: "#1a1a1a"
+  cardForeground: "#CECFC7"
+  popover: "#1a1a1a"
+  popoverForeground: "#CECFC7"
+  primary: "#3E6259"
+  primaryForeground: "#CECFC7"
+  secondary: "#2a2a2a"
+  secondaryForeground: "#CECFC7"
+  muted: "#2a2a2a"
+  mutedForeground: "#9a9a9a"
+  accent: "#3E6259"
+  accentForeground: "#CECFC7"
+  destructive: "#dc2626"
+  destructiveForeground: "#CECFC7"
+  border: "#3E6259"
+  input: "#2a2a2a"
+  ring: "#3E6259"
+  chart1: "#3E6259"
+  chart2: "#CECFC7"
+  chart3: "#5a7a72"
+  chart4: "#8a9a94"
+  chart5: "#a0b0aa"
+
+fonts:
+  sans: "Geist"
+  mono: "Geist Mono"
+
+experience:
+  - title: "Software Engineer"
+    company: "Part Software Group"
+    period: "Oct 2023 - Feb 2025"
+    responsibilities:
+      - "Developed backend services and internal tools"
+      - "Worked with containerized and cloud-based systems"
+      - "Collaborated with infrastructure and DevOps teams"
+
+  - title: "Site Reliability Engineer"
+    company: "Limoo Host"
+    period: "Feb 2025 - Present"
+    responsibilities:
+      - "Managing Kubernetes clusters and production infrastructure"
+      - "Building monitoring and logging systems"
+      - "Automating infrastructure with IaC and CI/CD pipelines"
+
+projects:
+  - title: "Monopoly Game"
+    period: "Jan 2021 - May 2021"
+    description: |
+      Implemented a Monopoly game using C++ and Qt as part of the Advanced Programming course.
+    points:
+      - "Designed object-oriented game architecture"
+      - "Implemented game logic and UI with Qt"
+
+  - title: "Calendar Simulation"
+    period: "Jan 2022 - Dec 2022"
+    description: |
+      Calendar simulation using the C programming language.
+    points:
+      - "Implemented date and calendar logic in C"
+      - "Handled edge cases such as leap years"
+
+  - title: "Bookshop Website"
+    period: "Jan 2022 - Dec 2022"
+    description: |
+      Online book shop website for the Web Programming course.
+    points:
+      - "Built backend and frontend components"
+      - "Implemented user authentication and CRUD features"
+
+  - title: "Secure Chat"
+    period: "Mar 2023 - Dec 2023"
+    description: |
+      Secure chat application developed for the Software Security course.
+    points:
+      - "Implemented encryption and secure key exchange"
+      - "Focused on confidentiality and integrity of messages"
+
+  - title: "Design and Implementation of a Cloud-Native PostgreSQL Platform"
+    period: "Mar 2025 - Sep 2025"
+    description: |
+      Designed and developed a PostgreSQL-based Database-as-a-Service platform on Kubernetes,
+      providing high availability, fault tolerance, and elasticity.
+
+      Integrated Patroni for replication and failover, PgCat for pooling and routing,
+      and WAL-G with MinIO for backups and point-in-time recovery.
+
+      Implemented observability using Prometheus and Grafana and proposed research
+      extensions for sharding and adaptive scaling.
+    points:
+      - "Designed HA PostgreSQL architecture on Kubernetes"
+      - "Implemented backup, monitoring, and failover mechanisms"
+
+volunteering:
+  - title: "Technical Mentor"
+    organization: "University / Community"
+    period: "2024"
+    description: "Mentored students in cloud, DevOps, and security projects."
+
+skills:
+  technologies:
+    - "Python"
+    - "Go"
+    - "Docker"
+    - "Kubernetes"
+    - "Terraform"
+    - "Ansible"
+    - "Prometheus"
+    - "Grafana"
+    - "Linux"
+    - "Git"
+
+  frameworks:
+    - "Django"
+    - "Flask"
+
+  platforms:
+    - "AWS"
+
+  soft:
+    - "Problem Solving"
+    - "Teamwork"
+    - "Adaptability"
+    - "Communication"
+
+education:
+  - degree: "Bachelor's Degree, Computer Engineering"
+    institution: "Ferdowsi University of Mashhad"
+    period: "Sep 2020 - May 2024"
+
+languages:
+  - "English"
+  - "Persian"
