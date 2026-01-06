@@ -28,40 +28,27 @@ summary: |
   PKI, logging and monitoring systems, and cloud-native databases.
 
 colors:
+  # Background and Text Colors
   background: "#3E4E50"          # Dark teal background
   foreground: "#B5DEAD"          # Soft pale green text
 
-  card: "#36151E"                # Deep maroon card surfaces
-  cardForeground: "#FFFFFF"      # White text on cards
+  # Skills Section Colors
+  skillsBackground: "#3E4E50"    # Dark teal background for skills section
+  skillsText: "#B5DEAD"          # Soft pale green text for skills
+  skillsHeader: "#36151E"        # Deep maroon for category headers (Technologies, Platforms, Soft Skills)
+  skillsBorder: "#36151E"        # Deep maroon border for the skills section
 
-  popover: "#B5DEAD"             # Soft pale green for popover
-  popoverForeground: "#0A0A0A"   # Almost black text on popovers
+# Other sections (as defined earlier)
+card: "#36151E"
+cardForeground: "#FFFFFF"
+primary: "#36151E"
+primaryForeground: "#FFFFFF"
+secondary: "#3E4E50"
+secondaryForeground: "#B5DEAD"
+accent: "#B5DEAD"
+accentForeground: "#36151E"
+border: "#262626"
 
-  primary: "#36151E"             # Deep maroon primary color
-  primaryForeground: "#FFFFFF"   # White text on primary elements
-
-  secondary: "#3E4E50"          # Dark teal secondary elements
-  secondaryForeground: "#B5DEAD" # Soft pale green text on secondary elements
-
-  muted: "#36151E"              # Muted maroon background for muted elements
-  mutedForeground: "#B5DEAD"     # Soft pale green text on muted elements
-
-  accent: "#B5DEAD"              # Soft pale green for accents
-  accentForeground: "#36151E"    # Deep maroon for accent text
-
-  destructive: "#DC2626"
-  destructiveForeground: "#FFFFFF"
-
-  border: "#262626"
-  input: "#3E4E50"              # Dark teal input fields
-  ring: "#525252"
-
-  chart1: "#36151E"             # Deep maroon for chart 1
-  chart2: "#B5DEAD"             # Soft pale green for chart 2
-  chart3: "#3E4E50"             # Dark teal for chart 3
-  chart4: "#36151E"             # Deep maroon for chart 4
-  chart5: "#262626"             # Almost black for chart 5
-  
 fonts:
   sans: "Raleway"
   mono: "Geist Mono"
