@@ -63,7 +63,7 @@ colors:
   chart5: "#262626"             # Almost black for chart 5
 
 fonts:
-  sans: "Raleway, sans-serif"    # Raleway font for body and headings
+  sans: "Raleway"    # Raleway font for body and headings
   mono: "Geist Mono"
   
 experience:
