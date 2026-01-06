@@ -139,9 +139,9 @@ projects:
 
 volunteering:
   - title: "Technical Mentor"
-    organization: "University / Community"
-    period: "2024"
-    description: "Mentored students in cloud, DevOps, and security projects."
+    organization: "Ferdowsi University of Mashhad"
+    period: "2024 - 2025"
+    description: "Mentored students in Kubernetes, Docker, Hadoop and cloud technologies."
 
 skills:
   technologies:
