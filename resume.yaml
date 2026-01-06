@@ -31,7 +31,7 @@ colors:
   background: "#3E4E50"          # Dark teal background
   foreground: "#B5DEAD"          # Soft pale green text
 
-  card: "#B48291"                # Muted rose card surfaces
+  card: "#36151E"                # Deep maroon card surfaces
   cardForeground: "#FFFFFF"      # White text on cards
 
   popover: "#B5DEAD"             # Soft pale green for popover
@@ -44,7 +44,7 @@ colors:
   secondaryForeground: "#B5DEAD" # Soft pale green text on secondary elements
 
   muted: "#36151E"              # Muted maroon background for muted elements
-  mutedForeground: "#B48291"     # Muted rose text on muted elements
+  mutedForeground: "#B5DEAD"     # Soft pale green text on muted elements
 
   accent: "#B5DEAD"              # Soft pale green for accents
   accentForeground: "#36151E"    # Deep maroon for accent text
@@ -56,12 +56,12 @@ colors:
   input: "#3E4E50"              # Dark teal input fields
   ring: "#525252"
 
-  chart1: "#B48291"             # Muted rose color for chart 1
+  chart1: "#36151E"             # Deep maroon for chart 1
   chart2: "#B5DEAD"             # Soft pale green for chart 2
-  chart3: "#36151E"             # Deep maroon for chart 3
-  chart4: "#3E4E50"             # Dark teal for chart 4
+  chart3: "#3E4E50"             # Dark teal for chart 3
+  chart4: "#36151E"             # Deep maroon for chart 4
   chart5: "#262626"             # Almost black for chart 5
-
+  
 fonts:
   sans: "Raleway"
   mono: "Geist Mono"
