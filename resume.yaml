@@ -63,10 +63,11 @@ colors:
   chart5: "#262626"             # Almost black for chart 5
 
 fonts:
-  sans: "Raleway"    # Raleway font for body and headings
+  sans: "Raleway"
   mono: "Geist Mono"
   
 experience:
+
   - title: "Site Reliability Engineer"
     company: "Limoo Host"
     period: "Feb 2025 - Present"
