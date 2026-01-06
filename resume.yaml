@@ -28,44 +28,44 @@ summary: |
   PKI, logging and monitoring systems, and cloud-native databases.
 
 colors:
-  background: "#0A0A0A"          # Almost black background
-  foreground: "#EDEDED"          # Main text
+  background: "#3E4E50"          # Dark teal background
+  foreground: "#B5DEAD"          # Soft pale green text
 
-  card: "#003300"                # Dark green card surfaces
-  cardForeground: "#EDEDED"
+  card: "#B48291"                # Muted rose card surfaces
+  cardForeground: "#FFFFFF"      # White text on cards
 
-  popover: "#003300"             # Dark green popover
-  popoverForeground: "#EDEDED"
+  popover: "#B5DEAD"             # Soft pale green for popover
+  popoverForeground: "#0A0A0A"   # Almost black text on popovers
 
-  primary: "#006400"             # Dark green accent
-  primaryForeground: "#FFFFFF"
+  primary: "#36151E"             # Deep maroon primary color
+  primaryForeground: "#FFFFFF"   # White text on primary elements
 
-  secondary: "#003300"          # Darker green secondary
-  secondaryForeground: "#EDEDED"
+  secondary: "#3E4E50"          # Dark teal secondary elements
+  secondaryForeground: "#B5DEAD" # Soft pale green text on secondary elements
 
-  muted: "#003300"              # Dark green muted background
-  mutedForeground: "#9CA3AF"
+  muted: "#36151E"              # Muted maroon background for muted elements
+  mutedForeground: "#B48291"     # Muted rose text on muted elements
 
-  accent: "#2E8B57"             # Sea green accent for highlights
-  accentForeground: "#0A0A0A"
+  accent: "#B5DEAD"              # Soft pale green for accents
+  accentForeground: "#36151E"    # Deep maroon for accent text
 
   destructive: "#DC2626"
   destructiveForeground: "#FFFFFF"
 
   border: "#262626"
-  input: "#003300"              # Dark green input field
+  input: "#3E4E50"              # Dark teal input fields
   ring: "#525252"
 
-  chart1: "#006400"
-  chart2: "#2E8B57"
-  chart3: "#004d00"
-  chart4: "#003300"
-  chart5: "#262626"
+  chart1: "#B48291"             # Muted rose color for chart 1
+  chart2: "#B5DEAD"             # Soft pale green for chart 2
+  chart3: "#36151E"             # Deep maroon for chart 3
+  chart4: "#3E4E50"             # Dark teal for chart 4
+  chart5: "#262626"             # Almost black for chart 5
 
 fonts:
-  sans: "Geist"
+  sans: "Raleway, sans-serif"    # Raleway font for body and headings
   mono: "Geist Mono"
-
+  
 experience:
   - title: "Site Reliability Engineer"
     company: "Limoo Host"
